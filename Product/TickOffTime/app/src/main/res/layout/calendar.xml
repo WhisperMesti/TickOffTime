@@ -1,0 +1,9 @@
+<CalendarView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/simpleCalendarView"
+    android:layout_width="match_parent"
+    android:layout_height="500dp"
+    android:firstDayOfWeek="2"
+    android:maxDate="01/01/2018"
+    android:minDate="01/01/2016"
+    />
